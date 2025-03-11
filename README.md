@@ -13,7 +13,7 @@
 
 ## Tecnologías y herramientas
 [![Mis habilidades](https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,github&theme=light)](https://skillicons.dev)
-
+![imagen](https://github.com/Richyy37/TFC/blob/main/img/a%C3%B1adirInsert.png)
 ## Conéctate conmigo
 - 📧 Email: [tuemail@example.com]
 - 🎮 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
