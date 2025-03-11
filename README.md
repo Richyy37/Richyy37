@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre]
+# ¡Hola! Soy Javi
 
 ## Sobre mí
 ✅ Apasionado por la tecnología, el desarrollo de software y el aprendizaje continuo.  
